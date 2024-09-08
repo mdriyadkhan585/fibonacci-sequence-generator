@@ -1,0 +1,30 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#282c34"/>
+
+  <!-- Title -->
+  <text x="50%" y="40" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">
+    Fibonacci Generator
+  </text>
+
+  <!-- Fibonacci Circles -->
+  <!-- Circle 1 -->
+  <circle cx="150" cy="160" r="5" fill="#61dafb" />
+  <!-- Circle 2 -->
+  <circle cx="160" cy="160" r="8" fill="#21a1f1" />
+  <!-- Circle 3 -->
+  <circle cx="175" cy="160" r="13" fill="#0e86d4" />
+  <!-- Circle 4 -->
+  <circle cx="195" cy="160" r="21" fill="#0b6399" />
+  <!-- Circle 5 -->
+  <circle cx="225" cy="160" r="34" fill="#084b72" />
+
+  <!-- Spiral Line -->
+  <path d="M 150 160 Q 160 140, 175 160 Q 190 180, 195 160 Q 205 150, 225 160" 
+        stroke="#ffffff" stroke-width="2" fill="transparent" />
+
+  <!-- Subtitle -->
+  <text x="50%" y="280" font-family="Arial" font-size="18" fill="#61dafb" text-anchor="middle">
+    A Simple C Program
+  </text>
+</svg>
