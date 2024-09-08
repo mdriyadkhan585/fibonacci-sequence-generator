@@ -1,8 +1,8 @@
 # Fibonacci Generator in C 🚀
 ---
-[In Python]()
+[In Python](https://github.com/mdriyadkhan585/fibonacci-sequence-generator-python)
 
-[In Python GUI]()
+[In Python GUI](https://github.com/your-repo/fibonacci-sequence-generator-gui)
 
 
 ![Logo](logo.svg)
