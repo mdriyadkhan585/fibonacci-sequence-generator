@@ -2,7 +2,7 @@
 ---
 [In Python](https://github.com/mdriyadkhan585/fibonacci-sequence-generator-python)
 
-[In Python GUI](https://github.com/your-repo/fibonacci-sequence-generator-gui)
+[In Python GUI](https://github.com/mdriyadkhan585/fibonacci-sequence-generator-gui)
 
 
 ![Logo](logo.svg)
